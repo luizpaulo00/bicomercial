@@ -26,11 +26,10 @@ tqdm==4.64.1
 openpyxl
 mysql.connector
 gspread
-pip==22.2.2
+pip==22.3
 datetime
 psycopg2-binary
-sqlalchemy
 gspread
 pathlib
-PuLP==2.6.0
-sklearn==0.0
+
+
